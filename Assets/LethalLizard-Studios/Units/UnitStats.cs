@@ -9,7 +9,8 @@ public class UnitStats : ScriptableObject
     public enum UnitType { Ranged, Melee, Cavalry, Support, Siege, Magic };
     public UnitType type;
 
-    public int modelIndex = 0;
+    public int headIndex = 0;
+    public int bodyIndex = 0;
 
     public int baseHealth = 1;
     public int baseAttack = 1;

@@ -15,6 +15,7 @@ MonoBehaviour:
   emoji: "\U0001F3AF"
   description: 
   type: 0
-  modelIndex: 0
+  headIndex: 12
+  bodyIndex: 9
   baseHealth: 1
   baseAttack: 2
